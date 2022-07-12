@@ -3,8 +3,8 @@
 <!-- color pallets -->
 
 background1: #c7370f;
-background2: ##17718C;
-background3: ##434343;
+background2: #17718C;
+background3: #434343;
 
 .font-family: Arial,Helvetica,sans-serif;
 .font-size: 18px;
