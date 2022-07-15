@@ -12,6 +12,12 @@ background3: #434343;
 .line-height: 24px;
 .p-Get even more during our 4th of July Sale & Clearance! Members enjoy some extra-special savings in addition to the deals for everyone. But hurry, the sale ends July 4th.
 
+.p2-Shop early for best selection. Discounts based on original prices.
+Selection varies by location. Sale ends July 4.
+
+.p3-Shop early for best selection. Discounts based on original prices.
+Selection varies by location.
+
 <!-- button style -->
 
 background-color: #c7370f;
