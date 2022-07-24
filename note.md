@@ -18,6 +18,8 @@ Selection varies by location. Sale ends July 4.
 .p3-Shop early for best selection. Discounts based on original prices.
 Selection varies by location.
 
+.p4-Summer is officially on with up to 40% off! Plus, -REI- Co-op Members get access to even better deals.
+
 <!-- button style -->
 
 background-color: #c7370f;
@@ -34,3 +36,7 @@ text-align: center;
 text-decoration: none;
 letter-spacing: 2px;
 text-transform: uppercase;
+
+<!-- create white space -->
+
+. div style="line-height: 40px; background-color: #ffffff;" &nbsp; /div
