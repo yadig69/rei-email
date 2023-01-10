@@ -6,6 +6,13 @@ background1: #c7370f;
 background2: #01708C;
 background3: #434343;
 
+<!-- footer color pallets -->
+
+footer-background: #525252;
+footer-text-color: #d7d7d7;
+
+<!-- font family -->
+
 .font-family: Arial,Helvetica,sans-serif;
 .font-size: 18px;
 .color: #4e4d49;
@@ -43,3 +50,16 @@ text-transform: uppercase;
 <!-- create white space -->
 
 . div style="line-height: 40px; background-color: #ffff;" &nbsp; /div
+
+<!-- footer dialog -->
+
+View in browser
+
+Unsubscribe or Change Your Email Address and Preferences at any time.
+For information about our privacy practices, see our Privacy Policy.
+
+Need to contact REI? You can chat or call us at 800-426-4840.
+Recreational Equipment, Inc. 1700 45th St. E, Sumner, WA 98352.
+
+© 2022 Recreational Equipment, Inc. All rights reserved.
+REI and the REI Co-op logo are trademarks of Recreational Equipment, Inc.
