@@ -1,4 +1,4 @@
-# page styling
+# page styling notes
 
 <!-- color pallets -->
 
